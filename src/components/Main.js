@@ -16,9 +16,8 @@ const MainContainer = styled.div`
   overflow: hidden;
   position: relative;
 
-  h1,
   h2,
-  h3,
+  h2,
   h4,
   h5,
   h6 {
@@ -158,7 +157,7 @@ const Main = () => {
         </motion.h2>
       </Contact>
       <Blog to="/blog">
-        <motion.h2 whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>Blog</motion.h2>
+        <motion.h2 whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} >Blog</motion.h2>
       </Blog>
       <Work to="/work" click={click}>
         <motion.h2 whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>Work</motion.h2>

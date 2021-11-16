@@ -1,11 +1,11 @@
 export const Blogs = [
     {
         id:1,
-        name:"Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations",
+        name:"Learn all about Micro-Frontends",
         tags:["react","gsap","styled-components"],
-        date:"13 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--sBeV06Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yrzy75q4dzibqz6rf82.png",
-        link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+        date:"10 Nov, 2021",
+        imgSrc:"https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/microfrontends.png",
+        link:"https://www.freecodecamp.org/news/learn-all-about-micro-frontends/"
     },
     {
         id:2,
@@ -25,11 +25,11 @@ export const Blogs = [
     },
     {
         id:4,
-        name:"How to build a Fabulous Todo App using React, Redux and Framer-Motion",
+        name:"Transitioning to Web 3.0",
         tags:["react","redux","framer-motion"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--r5oUDhhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/036s7j5b73up7455rdth.png",
-        link:"https://dev.to/codebucks/build-redux-react-todo-list-app-with-animations-using-framer-motion-1mp1"
+        date:"14 Nov, 2021",
+        imgSrc:"https://drayfocus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1636832342543%2F1bfnlI31j.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+        link:"https://drayfocus.hashnode.dev/transitioning-to-web-30"
     },
     {
         id:5,
@@ -51,19 +51,19 @@ export const Blogs = [
    
     {
         id:7,
-        name:"What is Redux ? Simply Explained!",
+        name:"What's new in Lighthouse 9.0",
         tags:["react","redux","javascript"],
-        date:"16 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.png",
-        link:"https://dev.to/codebucks/what-is-redux-simply-explained-2ch7"
+        date:"15 Nov, 2021",
+        imgSrc:"https://wd.imgix.net/image/MtjnObpuceYe3ijODN3a79WrxLU2/hcf9uCrSxA4VNMiXHsVn.png?auto=format&w=964",
+        link:"https://developer.chrome.com/blog/lighthouse-9-0/"
     },
     {
         id:8,
-        name:"How to create Sidebar navigation menu in ReactJS with react router and framer-motion",
+        name:"Writing Clean Code in JavaScript",
         tags:["react","framer-motion","styled-components"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
-        link:"https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3"
+        date:"10 Nov, 2021",
+        imgSrc:"https://miro.medium.com/max/1400/1*-lIdTH1qNHuzXM-27QwF8Q.jpeg",
+        link:"https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874"
     },
   
 ] 
