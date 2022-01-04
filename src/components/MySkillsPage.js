@@ -28,6 +28,13 @@ flex-direction: column;
 justify-content: space-between;
 `;
 
+const Title = styled.h2`
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: calc(1em - 1vw);
+`
+
 const MySkillsPage = () => {
 
 
@@ -35,7 +42,9 @@ const MySkillsPage = () => {
         <ThemeProvider theme={lightTheme}>
             <Box>
                 <Main>
-
+                    <Title>
+                        Front End Developer
+                    </Title>
                 </Main>
             </Box>
         </ThemeProvider>
