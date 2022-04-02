@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/jayjani-portfolio/static/js/main.97c5f661.chunk.js",
-    "main.js.map": "/jayjani-portfolio/static/js/main.97c5f661.chunk.js.map",
-    "runtime-main.js": "/jayjani-portfolio/static/js/runtime-main.adfd20f7.js",
-    "runtime-main.js.map": "/jayjani-portfolio/static/js/runtime-main.adfd20f7.js.map",
-    "static/css/2.679831fc.chunk.css": "/jayjani-portfolio/static/css/2.679831fc.chunk.css",
-    "static/js/2.ed9f36a5.chunk.js": "/jayjani-portfolio/static/js/2.ed9f36a5.chunk.js",
-    "static/js/2.ed9f36a5.chunk.js.map": "/jayjani-portfolio/static/js/2.ed9f36a5.chunk.js.map",
-    "index.html": "/jayjani-portfolio/index.html",
-    "static/css/2.679831fc.chunk.css.map": "/jayjani-portfolio/static/css/2.679831fc.chunk.css.map",
-    "static/js/2.ed9f36a5.chunk.js.LICENSE.txt": "/jayjani-portfolio/static/js/2.ed9f36a5.chunk.js.LICENSE.txt",
-    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/jayjani-portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
-    "static/media/profile-img.5179e446.png": "/jayjani-portfolio/static/media/profile-img.5179e446.png",
-    "static/media/spaceman.5ec7fcfa.png": "/jayjani-portfolio/static/media/spaceman.5ec7fcfa.png"
+    "main.js": "/static/js/main.b1c12ad3.chunk.js",
+    "main.js.map": "/static/js/main.b1c12ad3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c6bb90bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c6bb90bf.js.map",
+    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
+    "static/js/2.2c40b3ec.chunk.js": "/static/js/2.2c40b3ec.chunk.js",
+    "static/js/2.2c40b3ec.chunk.js.map": "/static/js/2.2c40b3ec.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.2c40b3ec.chunk.js.LICENSE.txt": "/static/js/2.2c40b3ec.chunk.js.LICENSE.txt",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
+    "static/media/profile-img.5179e446.png": "/static/media/profile-img.5179e446.png",
+    "static/media/spaceman.5ec7fcfa.png": "/static/media/spaceman.5ec7fcfa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.adfd20f7.js",
+    "static/js/runtime-main.c6bb90bf.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.ed9f36a5.chunk.js",
-    "static/js/main.97c5f661.chunk.js"
+    "static/js/2.2c40b3ec.chunk.js",
+    "static/js/main.b1c12ad3.chunk.js"
   ]
 }
